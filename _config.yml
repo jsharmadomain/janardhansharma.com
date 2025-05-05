@@ -1,7 +1,5 @@
 ## See https://github.com/jekyll/minima/blob/master/_config_theme-dev.yml for configuration
 title: Janardhan Sharma's Blog
-author:
-  name: jsharmadomain
 description: >
   This blog hosts my writings on all things I do.
 theme: minima
