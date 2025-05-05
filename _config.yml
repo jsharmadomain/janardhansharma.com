@@ -13,10 +13,10 @@ sass:
   silence_deprecations: [import]
 
 minima:
-  skin: classic
+  skin: dark
 
   nav_pages:
-    - avout.md
+    - about.md
 
   show_excerpts: true
 
