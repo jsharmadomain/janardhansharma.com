@@ -1,24 +1,4 @@
-## See https://github.com/jekyll/minima/blob/master/_config_theme-dev.yml for configuration
 title: Janardhan Sharma's Blog
 description: >
   This blog hosts my writings on all things I do.
 theme: minima
-plugins:
-  - jekyll-feed
-
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]
-
-minima:
-  skin: dark
-
-  nav_pages:
-    - about.md
-
-  show_excerpts: true
-
-  social_links:
-    - title: Source
-      icon: github
-      url: "https://github.com/jsharmadomain/janardhansharma.com"
